@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=9hH5MEo3v8U
 
 
 ## 5. CONCLUSIONES
-
+* Debido a que el análisis de mallas nos permite representar los voltajes en función de las corrientes, nos es posible determinar las intensidades de las mallas de un circuito mediante el análisis y la elaboración de un sistema de ecuaciones que nos permitirá determinar el valor de las mismas.
 
 
 ## 6. BIBLIOGRAFÍA 
