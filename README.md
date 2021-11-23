@@ -17,6 +17,10 @@ A continuación se detalla la terminología de conceptos claves que se utilizan 
 
 ![1 1](https://user-images.githubusercontent.com/93666408/142980693-852078d3-baa5-4873-b11a-997cffb76891.jpg)
 ![1 2](https://user-images.githubusercontent.com/93666408/142980700-a5dab538-0a57-443b-be35-01010500e1fd.jpg)
+Como dato adicional las leyes de Kirchhoff junto con la Ley de Ohm son las principales herramientas que nos permiten analizar el valor de los parámetros de un circuito eléctrico,mediante el análisis de nodos es factible hallar los valores de las corrientes y las caídas de tensión que se presenten en cualquier punto.
+
+Para el análisis de mallas solo es necesaria la segunda Ley de Kirchhoff por lo que se enfoca en circuitos cerrados,como muestra en la figura.
+![image](https://user-images.githubusercontent.com/93666408/142981151-fbf7142b-af24-4111-af01-7965f41148e9.png)
 
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
