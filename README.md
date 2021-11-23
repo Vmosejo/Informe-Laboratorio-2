@@ -12,7 +12,11 @@ Identificar el funcionamiento de las mallas y su relacion con el estudio de los 
 * Definir un sistema de ecuaciones mediante el análisis de mallas y las leyes de Kirchhoff, con el fin de resolver un circuito eléctrico.   
 
 ## 2. MARCO TEÓRICO
+En el presente informe es fundamente la aplicación de las leyes de Kirchhoff,en resumen la primera ley dice que la suma de las corrientes que ingresan en un nodo del circuito debe ser igual a la suma de todas las corrientes que se expulsan del nodo.En cuanto a la segunda ley enuncia que la suma de todas las tensiones positivas en malla debe igualarse a la suma de las tensiones negativas lo que son las caídas de tensión en sentido contrario.
+A continuación se detalla la terminología de conceptos claves que se utilizan en los circuitos eléctricos que ayudan a plantear el análisis adecuado.
 
+![1 1](https://user-images.githubusercontent.com/93666408/142980693-852078d3-baa5-4873-b11a-997cffb76891.jpg)
+![1 2](https://user-images.githubusercontent.com/93666408/142980700-a5dab538-0a57-443b-be35-01010500e1fd.jpg)
 
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
