@@ -25,21 +25,23 @@ Una vez identificadas las mallas, procedemos a realizar el análisis de las mism
 * Malla 1
 ![1](https://user-images.githubusercontent.com/93681159/142954516-efad84eb-d92c-41a1-b163-6e0277d4c656.jpeg)
 * Malla 2
-![2](https://user-images.githubusercontent.com/93681159/142955467-34ef38a8-975e-4b15-9488-f2aa68331a14.jpeg)
+![2](https://user-images.githubusercontent.com/93681159/142961048-acdfaf41-78ea-4d15-8c81-8bd302a6c52b.jpeg)
 * Malla 3
 ![3](https://user-images.githubusercontent.com/93681159/142956485-18a62670-416b-4122-afde-0cbf0433ddcd.jpeg)
-## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+Finalmente, luego de haber realizado el analisis de cada una de las mallas, determinamos un sistema de ecuaciones de 3 ecuaciones con tres incognitas el cual resolveremos mediante una calculadora online para determinar nuestras Intensidades en cada una de las mallas. 
+
+![image](https://user-images.githubusercontent.com/93681159/142961319-f49ae5ea-8e6d-4023-b1b0-1a37b24a1e9e.png)
 
 
 
-## 5. VIDEO
+## 4. VIDEO
 
 
-## 6. CONCLUSIONES
+## 5. CONCLUSIONES
 
 
 
-## 7. BIBLIOGRAFÍA 
+## 6. BIBLIOGRAFÍA 
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson
-* McAllister, W. (s.f.). Las leyes de Kirchhoff. Khan Academy. https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
-* Veloso, C. (2016). LEYES DE KIRCHHOFF. Electron Tools. https://www.electrontools.com/Home/WP/ley-de-kirchhoff/
+* Anónimo. (s/f). Sistema de tres ecuaciones lineales con tres incógnitas. Calculadora online. http://matematicas.relatividad.org/widget-sistema-tres-incognitas.html
