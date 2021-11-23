@@ -40,8 +40,8 @@ Finalmente, luego de haber realizado el analisis de cada una de las mallas, dete
 
 ## 5. CONCLUSIONES
 
-
-
+* El análisis de mallas es una poderosa herramienta para la resolución y el análisis de circuitos eléctricos pequeños.
+* Gracias a que podemos expresar los voltajes en función de las corrientes, el análisis de mallas nos permite determinar el valor de las intensidades mediante el análisis y la elaboración de un sistema de ecuaciones a partir de las mallas.
 ## 6. BIBLIOGRAFÍA 
 * Floyd, T. (2007). Principios de circuitos electricos (Octava edi). México: Pearson
 * Anónimo. (s/f). Sistema de tres ecuaciones lineales con tres incógnitas. Calculadora online. http://matematicas.relatividad.org/widget-sistema-tres-incognitas.html
