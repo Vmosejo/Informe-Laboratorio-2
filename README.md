@@ -45,6 +45,8 @@ Finalmente, luego de haber realizado el analisis de cada una de las mallas, dete
 * Circuito realizado en proteus.
 ![7e4fde0b-2aaa-49b3-930c-4085fb704e15](https://user-images.githubusercontent.com/93893919/143458453-85cbad34-374d-46ba-8388-8129bffbe22d.jpg)
 
+* Tabla de resultados.
+![image](https://user-images.githubusercontent.com/93681159/143459183-5a8ca750-8456-496a-aaf8-b60d9528b634.png)
 
 
 ## 4. VIDEO
