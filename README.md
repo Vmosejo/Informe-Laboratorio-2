@@ -40,6 +40,8 @@ Una vez identificadas las mallas, procedemos a realizar el análisis de las mism
 Finalmente, luego de haber realizado el analisis de cada una de las mallas, determinamos un sistema de ecuaciones de 3 ecuaciones con tres incognitas el cual resolveremos mediante una calculadora online para determinar nuestras Intensidades en cada una de las mallas. 
 
 ![image](https://user-images.githubusercontent.com/93681159/142961319-f49ae5ea-8e6d-4023-b1b0-1a37b24a1e9e.png)
+* Circuito realizado y medido en tinkercad
+![2621605d-d5dd-4d91-92a2-5b01be30af82](https://user-images.githubusercontent.com/93893919/143458230-a73c8d85-f977-4d53-b0b2-aa7cac9eecb3.jpg)
 
 
 
