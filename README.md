@@ -46,8 +46,9 @@ Finalmente, luego de haber realizado el analisis de cada una de las mallas, dete
 ![7e4fde0b-2aaa-49b3-930c-4085fb704e15](https://user-images.githubusercontent.com/93893919/143458453-85cbad34-374d-46ba-8388-8129bffbe22d.jpg)
 
 * Tabla de resultados.
-![image](https://user-images.githubusercontent.com/93681159/143459183-5a8ca750-8456-496a-aaf8-b60d9528b634.png)
 
+
+![tabla](https://user-images.githubusercontent.com/93681159/143459566-2336581b-05ac-4684-84bf-7216d5649af4.PNG)
 
 ## 4. VIDEO
 https://www.youtube.com/watch?v=9hH5MEo3v8U
